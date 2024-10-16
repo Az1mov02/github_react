@@ -30,6 +30,9 @@ function App() {
                     -
                 </button>
             </div>
+
+            <h2 className="heading2">Это счетчик</h2>
+
         </div>
     );
 }

@@ -31,7 +31,8 @@ function App() {
                 </button>
             </div>
 
-            <h2 className="heading2">Это счетчик</h2>
+            <h2 className="heading2">Это счетчик
+            алооо</h2>
 
         </div>
     );
